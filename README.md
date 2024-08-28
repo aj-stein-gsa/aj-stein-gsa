@@ -2,15 +2,11 @@
 
 ## Intro
 
-Name pronunciation: Ay-jay St-eye-n
-
-Pronouns: he/him
-
-Department: [FedRAMP](https://automate.fedramp.gov/)
-
-When you started: August 2024
-
-Location: Alexandria, VA, USA
+- **Name pronunciation:** Ay-jay St-eye-n
+- **Pronouns:** [he/him](https://pronouns.org/he-him)
+- **Department:** [FedRAMP](https://automate.fedramp.gov/)
+- **When you started:** August 2024
+- **Location:** Alexandria, VA, USA
 
 Schedule/working hours: [9:00 - 5:00 PM Eastern Time, Monday to Friday](https://time.is/Washington,_D.C.)
 
