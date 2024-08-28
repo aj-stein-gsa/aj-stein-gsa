@@ -35,8 +35,8 @@ Schedule/working hours: [9:00 - 5:00 PM Eastern Time, Monday to Friday](https://
 - Unsurprisingly, I love to travel.
 - I am the stereotypical computer nerd.
   - I was buying and customizing PCs as a child.
-  - I fell in love with different Linux and Unix distros since I was a teenager.
-  - Hacking on Linux copmuters fostered to my love of free and open-source software. I am a proud [Free Software Foundation](https://www.fsf.org/) member.
+  - I fell in love with different Linux and Unix distributions since I was a teenager.
+  - Hacking on Linux computers fostered to my love of free and open-source software. I am a proud [Free Software Foundation](https://www.fsf.org/) member.
   - I have a circle of fellow geeks and we competed in different [Capture the Flags (CTFs)](https://ctftime.org/), sometimes successfully.
 - Beyond free and open-source software culture, I believe in paying it forward for cybersecurity, software, IT, and the in between.
   - I volunteer in the Internet Engineering Task Force. And I will help anyone who reaches out who wants to try it.
