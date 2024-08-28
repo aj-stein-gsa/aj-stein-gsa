@@ -3,10 +3,15 @@
 ## Intro
 
 Name pronunciation: Ay-jay St-eye-n
+
 Pronouns: he/him
+
 Chapter or department: FedRAMP
+
 When you started: August 2024
+
 Location: Alexandria, VA, USA
+
 Schedule/working hours: [9:00 - 5:00 PM Eastern Time, Monday to Friday](https://time.is/Washington,_D.C.)
 
 ## Projects I've worked on
