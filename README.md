@@ -6,7 +6,7 @@ Name pronunciation: Ay-jay St-eye-n
 
 Pronouns: he/him
 
-Chapter or department: FedRAMP
+Department: FedRAMP
 
 When you started: August 2024
 
