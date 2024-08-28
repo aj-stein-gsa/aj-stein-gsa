@@ -10,6 +10,10 @@
 
 Schedule/working hours: [9:00 - 5:00 PM Eastern Time, Monday to Friday](https://time.is/Washington,_D.C.)
 
+## Skills
+
+## Work style preferences
+
 ## Projects I've worked on
 
 - My first time in GSA I was a contractor for [10x](https://10x.gsa.gov). I worked on several projects below.
@@ -35,7 +39,7 @@ Schedule/working hours: [9:00 - 5:00 PM Eastern Time, Monday to Friday](https://
   - Hacking on Linux computers fostered to my love of free and open-source software. I am a proud [Free Software Foundation](https://www.fsf.org/) member.
   - I have a circle of fellow geeks and we competed in different [Capture the Flags (CTFs)](https://ctftime.org/), sometimes successfully.
 - Beyond free and open-source software culture, I believe in paying it forward for cybersecurity, software, IT, and the in between.
-  - I volunteer in the Internet Engineering Task Force. And I will help anyone who reaches out who wants to try it.
+  - I [volunteer in the Internet Engineering Task Force](https://datatracker.ietf.org/person/ajstein.standards@gmail.com). And I will help anyone who reaches out who wants to try it.
   - I am a committee chair for [the ACSAC conference](https://www.acsac.org/) to give deserving students free or reduced-cost access to a high-quality conference with diverse researchers from academia, industry, and government.
   - I am [a Carpentries instructor](https://carpentries.org/), practicing inclusive teaching methods and course design for data science and software competencies around the world.
 - I don't just like to laugh, in my mind I need to do it. So I consume a lot of comedy.
