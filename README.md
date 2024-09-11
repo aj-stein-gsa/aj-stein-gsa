@@ -47,3 +47,9 @@ Schedule/working hours: [9:00 - 5:00 PM Eastern Time, Monday to Friday](https://
   - I like to watch standup comedians, obscure or famous.
   - I like funny podcasts.
 - Generally, I consume a lot of podcasts.
+
+## Meet with me
+
+If you need to schedule time or I ask you to, you can use [this form to book an appointment with me](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2HhqNint2tAk4RPpB1AlBFDsHa_6VBIPdaX6GcOGbmpyDMBADEUlerPTDbWHzsrKkSQAUC1BSD).
+
+Do you just want to know when I am free or busy so you can schedule a meeting with me and others on your own? You can see my free and busy times [with my public calendar](https://calendar.google.com/calendar/u/0?cid=YWxleGFuZGVyLnN0ZWluQGdzYS5nb3Y).
