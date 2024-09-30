@@ -54,4 +54,4 @@ If you need to schedule time or I ask you to, you can use [this form to book an 
 
 Do you just want to know when I am free or busy so you can schedule a meeting with me and others on your own? You can see my free and busy times [with my public calendar](https://calendar.google.com/calendar/u/0?cid=YWxleGFuZGVyLnN0ZWluQGdzYS5nb3Y).
 
-This is [a test](/).
+This is [a test](.).
