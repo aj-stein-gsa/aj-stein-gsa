@@ -1,4 +1,8 @@
-# Working with AJ Stein
+# To Have Worked with AJ Stein
+
+## Deprecated
+
+If you are reading this after 28 June 2025, I don't work at GSA anymore. So long and thanks for all the fish.
 
 ## Intro
 
